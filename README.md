@@ -211,46 +211,6 @@ It is designed to help users understand their route and make better decisions ba
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the working application below.
-
-### Home Page
-
-```text
-Add your screenshot here
-```
-
-### Route Planning
-
-```text
-Add your screenshot here
-```
-
-### Crime Heatmap
-
-```text
-Add your screenshot here
-```
-
-### Fastest & Safest Routes
-
-```text
-Add your screenshot here
-```
-
-### AI Route Assistant
-
-```text
-Add your screenshot here
-```
-
-To add an image stored in the repository, use:
-
-```markdown
-![SafeWalk Screenshot](./screenshots/home.png)
-```
-
 ---
 
 ## 🌐 Deployment Link
