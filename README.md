@@ -261,7 +261,7 @@ Add your deployed SafeWalk link here.
 Example:
 
 ```text
-[https://your-safewalk-deployment-link.com](https://safe-walk-nu.vercel.app/route)
+https://safe-walk-nu.vercel.app/route
 ```
 
 ---
